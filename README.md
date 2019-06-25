@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-https://github.com/cuk-danijela/cryptocurrency-ticker-app/blob/master/screen.png
+![](https://github.com/cuk-danijela/cryptocurrency-ticker-app/blob/master/screen.png)
 
 ## Available Scripts
 
